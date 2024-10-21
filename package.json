@@ -24,7 +24,7 @@
     "@material-ui/lab": "4.0.0-alpha.61",
     "@matheusluizn/react-google-login": "^5.1.6",
     "@okta/jwt-verifier": "^3.0.1",
-    "@okta/okta-auth-js": "^7.3.0",
+    "@okta/okta-auth-js": "^7.8.1",
     "@okta/okta-react": "^6.7.0",
     "@types/detect-port": "^1.3.2",
     "@xstate/react": "3.2.2",
